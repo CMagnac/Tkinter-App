@@ -27,7 +27,7 @@ More informations on [HSK](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi).
 
 Run the main file.
 ```sh
-python main.py
+python run.py
 ```
 
 ## Demo
